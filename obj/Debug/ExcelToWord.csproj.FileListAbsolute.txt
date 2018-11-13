@@ -1,0 +1,9 @@
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.exe
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.pdb
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csprojAssemblyReference.cache
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.Form1.resources
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.Properties.Resources.resources
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.GenerateResource.cache
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.CoreCompileInputs.cache
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.exe
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.pdb
