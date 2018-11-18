@@ -7,3 +7,9 @@ E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.GenerateResource.ca
 E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.CoreCompileInputs.cache
 E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.exe
 E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.pdb
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.dll
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.OOXML.dll
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.OpenXml4Net.dll
+E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.CopyComplete
