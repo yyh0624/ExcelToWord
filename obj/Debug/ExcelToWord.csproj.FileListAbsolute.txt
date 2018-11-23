@@ -13,3 +13,13 @@ E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.OOXML.dll
 E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.OpenXml4Net.dll
 E:\proj\ExcelToWord\ExcelToWord\bin\Debug\NPOI.OpenXmlFormats.dll
 E:\proj\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.CopyComplete
+F:\yyh\projtest\ExcelToWord\bin\Debug\ExcelToWord.exe
+F:\yyh\projtest\ExcelToWord\bin\Debug\ExcelToWord.pdb
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.csprojAssemblyReference.cache
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.Form1.resources
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.Properties.Resources.resources
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.csproj.GenerateResource.cache
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.csproj.CoreCompileInputs.cache
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.csproj.CopyComplete
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.exe
+F:\yyh\projtest\ExcelToWord\obj\Debug\ExcelToWord.pdb
